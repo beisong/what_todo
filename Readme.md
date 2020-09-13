@@ -18,11 +18,11 @@ C:\yourprojectdirectory\what_todo\somedir2\anotherdir\yet_another_dir\index.js
 and more...
 ```
 
-##Running the tests
+## Running the tests
 - `npm install` to install mocha dependencies
 - `npm test` to run the tests 
 
-## test output
+## Test output
 ```
 > mocha
   Testing getFilesInDIR
